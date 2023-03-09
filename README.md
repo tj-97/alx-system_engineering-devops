@@ -1,1 +1,1 @@
-This repository is for project 0x00 Shell, Basics
+This script switches the current user
