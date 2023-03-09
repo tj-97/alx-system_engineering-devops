@@ -1,2 +1,6 @@
 #!/bin/bash
-chmod 751, 555 hello
+changepermissions() {
+	chmod 751 hello
+	chmod 555 hello
+}
+changepermissions
