@@ -1,2 +1,2 @@
 #!/bin/bash
-sort 0x02 | uniq -u 
+sort 0x02/list | uniq -u 
