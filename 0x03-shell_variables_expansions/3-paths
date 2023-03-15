@@ -1,2 +1,2 @@
 #!/bin/bash
-path="$PATH" | ls -lR $path | wc -l
+path="$HOME" | find -d $path | wc -l
